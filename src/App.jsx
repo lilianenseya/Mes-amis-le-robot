@@ -1,17 +1,17 @@
- import './App.css';
-import Robots from './Composant/Robots';
+import './App.css';
+import Robots from '.src/Robots';
 
 
 function App() {
   return (
     <div className='All'>
 
-          <div className="App">
-      <h1>MES AMIS ROBOTS</h1>
-      <Robots/>
-      
-      
-    </div>
+      <div className="App">
+        <h1>MES AMIS ROBOTS</h1>
+        <Robots />
+
+
+      </div>
     </div>
 
   );
